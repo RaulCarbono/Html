@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bandera1{
+    margin: 70px;
+    width: 200px;
+    height: 70px;
+    background-color: yellow;
+    box-shadow: 0 50px blue, 0 100px red;
+}
